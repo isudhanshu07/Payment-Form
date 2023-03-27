@@ -30,6 +30,7 @@ p {
 h2 {
   text-align: center;
   color: brown;
+  margin-bottom: 0.625em;
 }
 
 input[type="submit"] {
@@ -140,7 +141,7 @@ p {
 }
 
 
-.form-1 form h2,.form-2 form h2 {
+.form-1 form h2 {
     margin-bottom: .625em;
 }
 
