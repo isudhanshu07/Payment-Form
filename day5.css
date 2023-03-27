@@ -140,7 +140,7 @@ p {
 }
 
 
-.form-1 form h2 {
+.form-1 form h2,.form-2 form h2 {
     margin-bottom: .625em;
 }
 
